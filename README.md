@@ -18,8 +18,7 @@ analysis, statistical testing, and the implementation of a machine learning clas
 - **GACTT_RESULTS_ANONYMIZED_v2.csv**: Anonymized results data.
 
 ### Miscellaneous
-- **CourSys - Project Ideas.pdf**: Document containing project ideas.
-- **CourSys - Project.pdf**: Detailed project description.
+- **CMPT353_Project_Report.pdf**: Final project report detailing procedure and findings of analysis.
 - **QUESTION_KEY.csv**: Key for the questions used in the project.
 
 ## Contributors
