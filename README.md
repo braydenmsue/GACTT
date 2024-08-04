@@ -1,4 +1,5 @@
-# CMPT353 Final Project: Great American Coffee Taste Test (GACTT)
+# Great American Coffee Taste Test (GACTT)
+### CMPT353 Final Project:
 
 ## Overview
 This repository contains the final project for CMPT 353 course Summer 2024. The project involves exploratory data 
