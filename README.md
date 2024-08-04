@@ -22,8 +22,8 @@ analysis, statistical testing, and the implementation of a machine learning clas
 - **QUESTION_KEY.csv**: Key for the questions used in the project.
 
 ## Contributors
-- **Hamoudi Saleh Baratta** (mba177)
-- **Brayden Sue** (bms8)
+- **Brayden Sue**
+- **Hamoudi Saleh Baratta**
 
 ## Languages
 - **Python**: 100%
