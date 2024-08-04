@@ -4,7 +4,10 @@
 This repository contains the final project for CMPT 353 course Summer 2024. The project involves exploratory data 
 analysis, statistical testing, and the implementation of a machine learning classifier. The data used in the
 analysis was collected by YouTuber James Hoffman in an online livestream. By preprocessing and analysing the data,
-interesting insights about different demographics' coffee tastes were uncovered.
+interesting insights about different demographics' coffee tastes were uncovered. 
+
+By running the scripts, the figures in the output folder can be recreated. The analysis of the figures and results
+can be found in the final report (CMPT353_Project_Report.pdf).
 
 ## Contents
 ### Scripts
