@@ -1,8 +1,10 @@
-# CMPT353 Final Project
+# CMPT353 Final Project: Great American Coffee Taste Test (GACTT)
 
 ## Overview
 This repository contains the final project for CMPT 353 course Summer 2024. The project involves exploratory data 
-analysis, statistical testing, and the implementation of a machine learning classifier.
+analysis, statistical testing, and the implementation of a machine learning classifier. The data used in the
+analysis was collected by YouTuber James Hoffman in an online livestream. By preprocessing and analysing the data,
+interesting insights about different demographics' coffee tastes were uncovered.
 
 ## Contents
 ### Scripts
